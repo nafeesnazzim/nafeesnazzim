@@ -1,4 +1,4 @@
-# Hi, I'm Nafees 👋
+# Hi, I'm Nafees
 
 **Cloud Security & Security Operations | Aspiring Threat Hunter**
 Cybersecurity undergraduate (BSc Hons Cyber Security, University of Staffordshire – APIIT Colombo, graduating 2027).
@@ -15,4 +15,4 @@ Cybersecurity undergraduate (BSc Hons Cyber Security, University of Staffordshir
 ## Currently learning
 Cryptography, PKI and access control → next: AWS cloud security and threat detection
 
-📫 [LinkedIn](https://www.linkedin.com/in/nafeesnazzim)
+[LinkedIn](https://www.linkedin.com/in/nafeesnazzim)
