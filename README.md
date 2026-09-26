@@ -1,33 +1,18 @@
-# NAFEES NAZZIM
-**Technical Security Specialist | Digital Forensics & Incident Response**
+# Hi, I'm Nafees 👋
 
----
+**Cloud Security & Security Operations | Aspiring Threat Hunter**
+Cybersecurity undergraduate (BSc Hons Cyber Security, University of Staffordshire – APIIT Colombo, graduating 2027).
 
-### 01 / PROFILE
-Driven by a mission to architect resilient digital ecosystems, I specialize in identifying adversarial patterns and securing critical infrastructure through technical precision. Currently bridging the gap between proactive defense and post-breach investigation.
+## What I work on
+- AWS: IAM, Elastic Beanstalk, EC2 and RDS, configured for a live university project
+- Home lab: packet analysis (Wireshark), vulnerability scanning (Nmap, OpenVAS), Linux and Windows administration
+- Scripting: Python and Bash
 
-### 02 / CORE FOCUS
-* **Defensive Operations:** Monitoring and triage of security events via SIEM (Splunk).
-* **Offensive Security:** System hardening and network vulnerability research.
-* **Digital Forensics:** Artifact recovery and timeline reconstruction.
+## Projects
+- [cybersecurity-labs](https://github.com/nafeesnazzim/cybersecurity-labs): my isolated VirtualBox lab and a Python port scanner
+- [candidflow-case-study](https://github.com/nafeesnazzim/candidflow-case-study): my role as Scrum Master on a secure recruitment tracker deployed on AWS
 
-### 03 / TECHNICAL STACK
-* **Operating Systems:** Linux (Ubuntu, Kali), Windows Server.
-* **Analysis Tools:** Wireshark, Nmap, Metasploit, VirtualBox.
-* **Languages:** Python (Automation), Bash (Scripting).
+## Currently learning
+Cryptography, PKI and access control → next: AWS cloud security and threat detection
 
-### 04 / ACHIEVEMENTS & EDUCATION
-* **ISC2 Certified in Cybersecurity (CC)** | Completed Feb 2026
-* **BSc (Hons) Cybersecurity** | Staffordshire University (In Progress)
-
----
-
-### 05 / CONNECT
-* **LinkedIn:** [Nafees Nazzim](https://www.linkedin.com/in/nafeesnazzim/)
-* **Email:** nafeesnazzim1@gmail.com
-* **Portfolio:** [Documentation Repository](https://github.com/nafeesnazzim?tab=repositories)
-
----
-<p align="center">
-  <i>"Security is not a product, but a process."</i>
-</p>
+📫 [LinkedIn](https://www.linkedin.com/in/nafeesnazzim)
