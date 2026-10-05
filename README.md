@@ -25,7 +25,7 @@ Cybersecurity undergraduate (BSc Hons Cyber Security, University of Staffordshir
 - [candidflow-case-study](https://github.com/nafeesnazzim/candidflow-case-study): my role as Scrum Master on a secure recruitment tracker deployed on AWS
 
 ## Currently learning
-Cryptography, PKI and access control → next: AWS cloud security and threat detection
+Building towards cloud threat hunting — AWS security (IAM, CloudTrail), then detection with GuardDuty, Athena and MITRE ATT&CK Cloud
 
 ### 🐍 Contribution activity
 
