@@ -21,7 +21,7 @@ Cybersecurity undergraduate (BSc Hons Cyber Security, University of Staffordshir
 - Scripting: Python and Bash
 
 ## Projects
-- [cybersecurity-labs](https://github.com/nafeesnazzim/cybersecurity-labs): my isolated VirtualBox lab and a Python port scanner
+- [cyber-security-labs](https://github.com/nafeesnazzim/cybersecurity-labs): my isolated VirtualBox lab and a Python port scanner
 - [candidflow-case-study](https://github.com/nafeesnazzim/candidflow-case-study): my role as Scrum Master on a secure recruitment tracker deployed on AWS
 
 ## Currently learning
